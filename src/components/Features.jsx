@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Sparkles, Zap, MagicWand, ShieldCheck } from 'lucide-react'
+import { Sparkles, Zap, Wand2, ShieldCheck } from 'lucide-react'
 
 const features = [
   {
@@ -13,7 +13,7 @@ const features = [
     desc: 'Streamed previews update as you type. Iterate without waiting.'
   },
   {
-    icon: MagicWand,
+    icon: Wand2,
     title: 'Smart Styles',
     desc: 'Attach mood boards and Auralens learns your aesthetic automatically.'
   },
